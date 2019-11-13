@@ -1,7 +1,7 @@
-# Module 03 : What is an agent-based model (in biology)?
+# Lesson 03 : What is an agent-based model (in biology)?
 This module introduces the key aspects of agent-based modeling in biology. 
 
-## Video recording of module 
+## Video recording of lesson 
 Duration: 
 1. **YouTube**
 1. **FigShare:**
@@ -14,12 +14,12 @@ Duration:
 1. **FigShare:** 
 
 ## Companion code
-None for this module. 
+None for this lesson. 
 
 ## Educational microapps 
 1. pcISA (an example of an agent-based model) [https://www.nanohub.org/tools/pcisa] 
 1. pc4biorobots (an example of an agent-based model) [https://www.nanohub.org/tools/pcisa] 
 1. pc4cancerbots (an example of an agent-based model) [https://www.nanohub.org/tools/pcisa] 
 1. pc4cancerimmuine (an example of an agent-based model) [https://www.nanohub.org/tools/pcisa] 
-
+See [https://github.com/physicell-training/02-How-to-nanoHUB] for a tutorial on running (PhysiCell)[http://PhysiCell.org] models on (nanoHUB)[https://www.nanohub.org]. 
 

@@ -10,7 +10,7 @@ Duration:
 
 ## Slides (in PDF format)
 
-1. **GitHub:** [PDF slides here](https://github.com/physicell-training/03-What-is-ABM/blob/master/02-What-is-ABM.pdf)
+1. **GitHub:** [PDF slides here](https://github.com/physicell-training/03-What-is-ABM/blob/master/03-What-is-ABM.pdf)
 1. **FigShare:** 
 
 ## Companion code
